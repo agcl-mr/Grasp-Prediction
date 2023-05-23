@@ -1,0 +1,51 @@
+{
+    "os": "Windows-10-10.0.22621-SP0",
+    "python": "3.7.9",
+    "heartbeatAt": "2023-03-06T05:33:32.607598",
+    "startedAt": "2023-03-06T05:33:31.200888",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--dataset",
+        "cornell",
+        "--dataset-path",
+        "D:\\DDP\\Data\\cornell",
+        "--description",
+        "training_cornell"
+    ],
+    "state": "running",
+    "program": "train_network_wandb.py",
+    "codePath": "train_network_wandb.py",
+    "host": "hrishi",
+    "username": "hrishikesh",
+    "executable": "D:\\DDP\\Projects\\2021_Antipodal_robotic-grasping-master\\my_env\\Scripts\\python.exe",
+    "cpu_count": 4,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 1801.0,
+        "min": 0.0,
+        "max": 1801.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 1801.0,
+            "min": 0.0,
+            "max": 1801.0
+        }
+    ],
+    "disk": {
+        "total": 931.5107383728027,
+        "used": 333.03038787841797
+    },
+    "gpu": "NVIDIA GeForce 940MX",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce 940MX",
+            "memory_total": 2147483648
+        }
+    ],
+    "memory": {
+        "total": 7.916965484619141
+    }
+}
