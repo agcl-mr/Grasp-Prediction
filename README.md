@@ -1,10 +1,7 @@
 # Robotic Grasping using Deep Learning 
-In this project different CNN models have been implemented for prediction of robotic grasps and they have been trained on 2 types of datasets 1. Cornell and 2. Jacquard
+In this project different custom CNN models have been implemented for the prediction of robotic grasps and they have been trained on 2 types of datasets 1. Cornell and 2. Jacquard
 
-
-#### Robotic Grasping using Different Convolutional Neural Network
-
-Hrishikesh Kambale
+Author: Hrishikesh Kambale
 
 
 
