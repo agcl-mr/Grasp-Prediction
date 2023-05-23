@@ -106,7 +106,7 @@ my_env/
 /docker/
 
 results/
-anti_podal_logs/
+antipodal_logs/
 saved_data/
 logs/
 XAI/
